@@ -1,2 +1,3 @@
-# ZSlider
- A reusable Slider View made with SwiftUI
+# MyLibrary
+
+A description of this package.

@@ -1,5 +1,5 @@
 //
-//  Zslider.swift
+//  ZSlider.swift
 //  ZSlider
 //
 //  Created by Zaid Raza on 29/08/2021.
