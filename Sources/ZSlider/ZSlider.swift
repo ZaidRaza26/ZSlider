@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ZSlider: View {
+public struct ZSlider: View {
     
     @State var sliderHeight: CGFloat
     
