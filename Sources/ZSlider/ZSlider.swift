@@ -21,7 +21,7 @@ public struct ZSlider: View {
 
     /// This returns a Slider View and a value between 0.0 and 1.0 representing how much is filled. The value is returned in `onChange() modifier`.
   
-    init(size: CGSize,
+    public init(size: CGSize,
          fillPercentage: CGFloat,
          fillColor: [Color],
          unfillColor: [Color],
