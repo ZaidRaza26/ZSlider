@@ -52,7 +52,7 @@ public struct ZSlider: View {
             }
     }
     
-    var body: some View {
+    public var body: some View {
             ZStack {
                     VStack(){
                         ZStack(alignment: .top){
