@@ -24,8 +24,8 @@ let package = Package(
         .target(
             name: "ZSlider",
             dependencies: []),
-        .testTarget(
-            name: "ZSliderTests",
-            dependencies: ["ZSlider"]),
+//        .testTarget(
+//            name: "ZSliderTests",
+//            dependencies: ["ZSlider"]),
     ]
 )
